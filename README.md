@@ -1,1 +1,1 @@
-example Google Colab
+Link checks SSL insecure robustness (#7853)
