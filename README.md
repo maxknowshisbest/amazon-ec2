@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add new YOLOv8 OBB model metrics (#7379)
