@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add YOLOv8 LibTorch C++ inference example (#7090)
