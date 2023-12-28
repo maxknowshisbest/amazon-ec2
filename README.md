@@ -1,1 +1,1 @@
-Update TFLite Docs images (#8605)
+Python refactorings and simplifications (#7549)
