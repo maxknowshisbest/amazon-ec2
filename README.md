@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Update the heatmap module code + docs (#7045)
