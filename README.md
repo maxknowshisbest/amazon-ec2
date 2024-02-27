@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
