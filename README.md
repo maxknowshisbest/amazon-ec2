@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
