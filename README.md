@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add TorchScript Docs Integrations Page (#8501)
