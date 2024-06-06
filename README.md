@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Update neural-magic.md (#7347)
